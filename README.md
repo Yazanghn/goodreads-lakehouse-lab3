@@ -1,1 +1,1 @@
-# DSAI3202-lab3
+#goodreads-lakehouse-lab3
